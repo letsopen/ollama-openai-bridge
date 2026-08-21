@@ -4,6 +4,7 @@ on:
   push:
     branches: [ "main", "master" ]
     tags: [ 'v*.*.*' ] # 当你推送 v1.0.0 这样的标签时也会触发
+  workflow_dispatch: # <-- 加上这一行，开启手动触发按钮
 
 env:
   REGISTRY: ghcr.io
