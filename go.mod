@@ -1,1 +1,3 @@
-go mod init ollama-openai-bridge
+module ollama-openai-bridge
+
+go 1.21
