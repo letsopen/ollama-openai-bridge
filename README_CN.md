@@ -26,7 +26,7 @@
 
 ### 1. 拉取镜像
 ```bash
-docker pull yourusername/ollama-openai-bridge:latest
+docker pull ghcr.io/letsopen/ollama-openai-bridge:latest
 
 ```
 

@@ -26,7 +26,7 @@ You can deploy the bridge instantly using Docker.
 
 ### 1. Pull the Image
 ```bash
-docker pull yourusername/ollama-openai-bridge:latest
+docker pull ghcr.io/letsopen/ollama-openai-bridge:latest
 
 ```
 
